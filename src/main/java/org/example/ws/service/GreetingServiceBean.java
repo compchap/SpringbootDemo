@@ -65,7 +65,7 @@ public class GreetingServiceBean implements GreetingService {
         save(g1);
 
         Greeting g2 = new Greeting();
-        g2.setText("Hola Motu!");
+        g2.setText("Hola Amigo!");
         save(g2);
     }
 */
